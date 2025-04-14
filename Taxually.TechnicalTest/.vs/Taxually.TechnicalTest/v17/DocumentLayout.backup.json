@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\\u00DAj mappa\\developer-test\\Taxually.TechnicalTest\\",
+  "WorkspaceRootPath": "C:\\\u00DAj mappa\\developer-test-taxually\\Taxually.TechnicalTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1177118-AAFD-4F1B-876C-F8C3880B6811}|IvatRegistrationTest\\IvatRegistrationTest.csproj|c:\\\u00FAj mappa\\developer-test\\taxually.technicaltest\\ivatregistrationtest\\vatregistrationstrategyfactorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1177118-AAFD-4F1B-876C-F8C3880B6811}|IvatRegistrationTest\\IvatRegistrationTest.csproj|c:\\\u00FAj mappa\\developer-test-taxually\\taxually.technicaltest\\ivatregistrationtest\\vatregistrationstrategyfactorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1177118-AAFD-4F1B-876C-F8C3880B6811}|IvatRegistrationTest\\IvatRegistrationTest.csproj|solutionrelative:ivatregistrationtest\\vatregistrationstrategyfactorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A119A885-BCD4-473B-861A-480AA3C87EB6}|Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj|c:\\\u00FAj mappa\\developer-test\\taxually.technicaltest\\taxually.technicaltest\\services\\vatregistrationstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A119A885-BCD4-473B-861A-480AA3C87EB6}|Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj|solutionrelative:taxually.technicaltest\\services\\vatregistrationstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A119A885-BCD4-473B-861A-480AA3C87EB6}|Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj|c:\\\u00FAj mappa\\developer-test\\taxually.technicaltest\\taxually.technicaltest\\services\\ivatregistrationstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A119A885-BCD4-473B-861A-480AA3C87EB6}|Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj|solutionrelative:taxually.technicaltest\\services\\ivatregistrationstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A119A885-BCD4-473B-861A-480AA3C87EB6}|Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj|c:\\\u00FAj mappa\\developer-test\\taxually.technicaltest\\taxually.technicaltest\\services\\ivatregistrationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A119A885-BCD4-473B-861A-480AA3C87EB6}|Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj|solutionrelative:taxually.technicaltest\\services\\ivatregistrationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1177118-AAFD-4F1B-876C-F8C3880B6811}|IvatRegistrationTest\\IvatRegistrationTest.csproj|c:\\\u00FAj mappa\\developer-test\\taxually.technicaltest\\ivatregistrationtest\\vatregistrationcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1177118-AAFD-4F1B-876C-F8C3880B6811}|IvatRegistrationTest\\IvatRegistrationTest.csproj|c:\\\u00FAj mappa\\developer-test-taxually\\taxually.technicaltest\\ivatregistrationtest\\vatregistrationcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1177118-AAFD-4F1B-876C-F8C3880B6811}|IvatRegistrationTest\\IvatRegistrationTest.csproj|solutionrelative:ivatregistrationtest\\vatregistrationcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A119A885-BCD4-473B-861A-480AA3C87EB6}|Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj|c:\\\u00FAj mappa\\developer-test\\taxually.technicaltest\\taxually.technicaltest\\models\\vatregistrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A119A885-BCD4-473B-861A-480AA3C87EB6}|Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj|c:\\\u00FAj mappa\\developer-test-taxually\\taxually.technicaltest\\taxually.technicaltest\\services\\vatregistrationstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A119A885-BCD4-473B-861A-480AA3C87EB6}|Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj|solutionrelative:taxually.technicaltest\\services\\vatregistrationstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A119A885-BCD4-473B-861A-480AA3C87EB6}|Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj|c:\\\u00FAj mappa\\developer-test-taxually\\taxually.technicaltest\\taxually.technicaltest\\services\\ivatregistrationstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A119A885-BCD4-473B-861A-480AA3C87EB6}|Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj|solutionrelative:taxually.technicaltest\\services\\ivatregistrationstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A119A885-BCD4-473B-861A-480AA3C87EB6}|Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj|c:\\\u00FAj mappa\\developer-test-taxually\\taxually.technicaltest\\taxually.technicaltest\\services\\ivatregistrationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A119A885-BCD4-473B-861A-480AA3C87EB6}|Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj|solutionrelative:taxually.technicaltest\\services\\ivatregistrationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A119A885-BCD4-473B-861A-480AA3C87EB6}|Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj|c:\\\u00FAj mappa\\developer-test-taxually\\taxually.technicaltest\\taxually.technicaltest\\models\\vatregistrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A119A885-BCD4-473B-861A-480AA3C87EB6}|Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj|solutionrelative:taxually.technicaltest\\models\\vatregistrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A119A885-BCD4-473B-861A-480AA3C87EB6}|Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj|c:\\\u00FAj mappa\\developer-test\\taxually.technicaltest\\taxually.technicaltest\\controllers\\vatregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A119A885-BCD4-473B-861A-480AA3C87EB6}|Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj|c:\\\u00FAj mappa\\developer-test-taxually\\taxually.technicaltest\\taxually.technicaltest\\controllers\\vatregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A119A885-BCD4-473B-861A-480AA3C87EB6}|Taxually.TechnicalTest\\Taxually.TechnicalTest.csproj|solutionrelative:taxually.technicaltest\\controllers\\vatregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,91 +42,86 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IVatRegistrationStrategy.cs",
-              "DocumentMoniker": "C:\\\u00DAj mappa\\developer-test\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Services\\IVatRegistrationStrategy.cs",
+              "DocumentMoniker": "C:\\\u00DAj mappa\\developer-test-taxually\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Services\\IVatRegistrationStrategy.cs",
               "RelativeDocumentMoniker": "Taxually.TechnicalTest\\Services\\IVatRegistrationStrategy.cs",
-              "ToolTip": "C:\\\u00DAj mappa\\developer-test\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Services\\IVatRegistrationStrategy.cs",
+              "ToolTip": "C:\\\u00DAj mappa\\developer-test-taxually\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Services\\IVatRegistrationStrategy.cs",
               "RelativeToolTip": "Taxually.TechnicalTest\\Services\\IVatRegistrationStrategy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T09:22:44.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T09:22:44.919Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "VatRegistrationController.cs",
-              "DocumentMoniker": "C:\\\u00DAj mappa\\developer-test\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Controllers\\VatRegistrationController.cs",
+              "DocumentMoniker": "C:\\\u00DAj mappa\\developer-test-taxually\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Controllers\\VatRegistrationController.cs",
               "RelativeDocumentMoniker": "Taxually.TechnicalTest\\Controllers\\VatRegistrationController.cs",
-              "ToolTip": "C:\\\u00DAj mappa\\developer-test\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Controllers\\VatRegistrationController.cs",
+              "ToolTip": "C:\\\u00DAj mappa\\developer-test-taxually\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Controllers\\VatRegistrationController.cs",
               "RelativeToolTip": "Taxually.TechnicalTest\\Controllers\\VatRegistrationController.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAowBQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T09:17:09.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T09:17:09.272Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "VatRegistrationStrategyFactoryTests.cs",
-              "DocumentMoniker": "C:\\\u00DAj mappa\\developer-test\\Taxually.TechnicalTest\\IvatRegistrationTest\\VatRegistrationStrategyFactoryTests.cs",
+              "DocumentMoniker": "C:\\\u00DAj mappa\\developer-test-taxually\\Taxually.TechnicalTest\\IvatRegistrationTest\\VatRegistrationStrategyFactoryTests.cs",
               "RelativeDocumentMoniker": "IvatRegistrationTest\\VatRegistrationStrategyFactoryTests.cs",
-              "ToolTip": "C:\\\u00DAj mappa\\developer-test\\Taxually.TechnicalTest\\IvatRegistrationTest\\VatRegistrationStrategyFactoryTests.cs",
+              "ToolTip": "C:\\\u00DAj mappa\\developer-test-taxually\\Taxually.TechnicalTest\\IvatRegistrationTest\\VatRegistrationStrategyFactoryTests.cs",
               "RelativeToolTip": "IvatRegistrationTest\\VatRegistrationStrategyFactoryTests.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAwwCIAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T09:19:56.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "VatRegistrationStrategyFactory.cs",
-              "DocumentMoniker": "C:\\\u00DAj mappa\\developer-test\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Services\\VatRegistrationStrategyFactory.cs",
+              "DocumentMoniker": "C:\\\u00DAj mappa\\developer-test-taxually\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Services\\VatRegistrationStrategyFactory.cs",
               "RelativeDocumentMoniker": "Taxually.TechnicalTest\\Services\\VatRegistrationStrategyFactory.cs",
-              "ToolTip": "C:\\\u00DAj mappa\\developer-test\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Services\\VatRegistrationStrategyFactory.cs",
+              "ToolTip": "C:\\\u00DAj mappa\\developer-test-taxually\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Services\\VatRegistrationStrategyFactory.cs",
               "RelativeToolTip": "Taxually.TechnicalTest\\Services\\VatRegistrationStrategyFactory.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T09:18:24.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T09:18:24.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IVatRegistrationStrategyFactory.cs",
-              "DocumentMoniker": "C:\\\u00DAj mappa\\developer-test\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Services\\IVatRegistrationStrategyFactory.cs",
+              "DocumentMoniker": "C:\\\u00DAj mappa\\developer-test-taxually\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Services\\IVatRegistrationStrategyFactory.cs",
               "RelativeDocumentMoniker": "Taxually.TechnicalTest\\Services\\IVatRegistrationStrategyFactory.cs",
-              "ToolTip": "C:\\\u00DAj mappa\\developer-test\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Services\\IVatRegistrationStrategyFactory.cs",
+              "ToolTip": "C:\\\u00DAj mappa\\developer-test-taxually\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Services\\IVatRegistrationStrategyFactory.cs",
               "RelativeToolTip": "Taxually.TechnicalTest\\Services\\IVatRegistrationStrategyFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T09:18:22.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T09:18:22.487Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "VatRegistrationRequest.cs",
-              "DocumentMoniker": "C:\\\u00DAj mappa\\developer-test\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Models\\VatRegistrationRequest.cs",
+              "DocumentMoniker": "C:\\\u00DAj mappa\\developer-test-taxually\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Models\\VatRegistrationRequest.cs",
               "RelativeDocumentMoniker": "Taxually.TechnicalTest\\Models\\VatRegistrationRequest.cs",
-              "ToolTip": "C:\\\u00DAj mappa\\developer-test\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Models\\VatRegistrationRequest.cs",
+              "ToolTip": "C:\\\u00DAj mappa\\developer-test-taxually\\Taxually.TechnicalTest\\Taxually.TechnicalTest\\Models\\VatRegistrationRequest.cs",
               "RelativeToolTip": "Taxually.TechnicalTest\\Models\\VatRegistrationRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T09:18:16.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T09:18:16.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "VatRegistrationControllerTests.cs",
-              "DocumentMoniker": "C:\\\u00DAj mappa\\developer-test\\Taxually.TechnicalTest\\IvatRegistrationTest\\VatRegistrationControllerTests.cs",
+              "DocumentMoniker": "C:\\\u00DAj mappa\\developer-test-taxually\\Taxually.TechnicalTest\\IvatRegistrationTest\\VatRegistrationControllerTests.cs",
               "RelativeDocumentMoniker": "IvatRegistrationTest\\VatRegistrationControllerTests.cs",
-              "ToolTip": "C:\\\u00DAj mappa\\developer-test\\Taxually.TechnicalTest\\IvatRegistrationTest\\VatRegistrationControllerTests.cs",
+              "ToolTip": "C:\\\u00DAj mappa\\developer-test-taxually\\Taxually.TechnicalTest\\IvatRegistrationTest\\VatRegistrationControllerTests.cs",
               "RelativeToolTip": "IvatRegistrationTest\\VatRegistrationControllerTests.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwBEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T08:34:17.475Z",
               "EditorCaption": ""

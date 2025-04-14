@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1w4bKahz490=",
+  "dgSpecHash": "KAw0H4Dgf48=",
   "success": true,
-  "projectFilePath": "C:\\Új mappa\\developer-test\\Taxually.TechnicalTest\\IvatRegistrationTest\\IvatRegistrationTest.csproj",
+  "projectFilePath": "C:\\Új mappa\\developer-test-taxually\\Taxually.TechnicalTest\\IvatRegistrationTest\\IvatRegistrationTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jola\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Jola\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

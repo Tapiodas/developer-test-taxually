@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IvatRegistrationTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0aff8fca5c330617787dc6e05cc8bf25e6b293bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17effd70d115ae8c253c3d9076d8a631904d5626")]
 [assembly: System.Reflection.AssemblyProductAttribute("IvatRegistrationTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IvatRegistrationTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Taxually.TechnicalTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6421bcc1900f4786de10b00c4aa1aab8e21b89b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17effd70d115ae8c253c3d9076d8a631904d5626")]
 [assembly: System.Reflection.AssemblyProductAttribute("Taxually.TechnicalTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Taxually.TechnicalTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
